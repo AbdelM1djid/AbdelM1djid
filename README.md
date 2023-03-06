@@ -1,5 +1,4 @@
-Data Analyst Looking For Entry Level Job ,  working in data analysis is my first step to pursue data Science 
-
+Currently a Data Science Freelancer on Upwork 
 
 <!---
 AbdelM1djid/AbdelM1djid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
